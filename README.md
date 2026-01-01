@@ -107,7 +107,7 @@ cd 06_dashboard
 python -m http.server 8000
 ```
 
-Open 👉 **[http://localhost:5500](http://localhost:5500)**
+Open 👉 **[http://localhost:8000](http://localhost:8000)**
 
 ---
 
