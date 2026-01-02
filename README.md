@@ -32,7 +32,7 @@ The platform is inspired by **real-world analytics systems** used at companies l
 ## 🏗️ Architecture
 
 ```
-retailmart_analytics_project/
+Retailmart_Enterprise_Analytics/
 │
 ├── 01_setup/                          # Foundation scripts
 │   ├── 01_create_analytics_schema.sql
@@ -59,9 +59,13 @@ retailmart_analytics_project/
 │
 ├── 06_dashboard/                      # Frontend
 │   ├── index.html
-│   ├── css/styles.css
-│   ├── js/dashboard.js
-│   └── data/                          # JSON data files
+│   ├── css/                           # Stylesheets
+│   │   └── styles.css
+│   ├── js/                            # Dashboard logic
+│   │   └── dashboard.js
+│   ├── data/                          # Generated JSON data
+│   └── src/                           # Static assets (images, previews)
+│       └── executive_dashboard.png
 │
 └── 07_documentation/
     ├── README.md
@@ -85,8 +89,8 @@ retailmart_analytics_project/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Mayank230604/retailmart-enterprise-analytics.git
-   cd retailmart-enterprise-analytics
+   git clone https://github.com/Mayank230604/Retailmart_Enterprise_Analytics.git
+   cd Retailmart_Enterprise_Analytics
    ```
 
 2. **Create the RetailMart database**
