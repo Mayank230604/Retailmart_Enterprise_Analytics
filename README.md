@@ -1,6 +1,6 @@
 # 🛒 RetailMart Enterprise Analytics Platform
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 [![Domain](https://img.shields.io/badge/Domain-Data%20Analytics-blueviolet)](#)
 
